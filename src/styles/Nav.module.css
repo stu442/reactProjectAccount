@@ -1,0 +1,40 @@
+:root {
+    color: #1b1833;
+}
+
+.nav_box{
+    display: flex;
+    flex-direction: column;
+    width: 20vw;
+    height: 100vh;
+    background-color: #e2e2e2;
+
+}
+
+.menu_box_flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.home_img {
+    width: 20px;
+    height: 20px;
+}
+
+.plus_btn {
+    display: flex;
+    flex-direction: column;
+}
+
+.plus_img {
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+}
+
+.main_box {
+    background-color: #f3d9ff;
+    width: 100vw;
+}
